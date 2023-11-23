@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "kz.just_code.artspace"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kz.just_code.artspace"

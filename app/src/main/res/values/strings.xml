@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+
+
+    <string name="android_berlin_wall_description">Android in Berlin</string>
+    <string name="android_party_animal_description">Happy party animal Android</string>
+    <string name="android_humble_description">Humble Android</string>
+    <string name="android_snowflake_description">Snowflake Android</string>
+
+    <string name="berliner_android_title">Berliner</string>
+    <string name="party_animal_android_title">Party Animal</string>
+    <string name="humble_android_title">Humble</string>
+    <string name="snowflake_android_title">Snowflake</string>
+
+    <string name="author_dalle">"This is Author"</string>
+
+    <string name="twentytwentyone">(2021)</string>
+    <string name="twentytwentytwo">(2022)</string>
+    <string name="twentytwentythree">(2023)</string>
+
+    <string name="next_button">Next</string>
+    <string name='previous_button'>Previous</string>
 </resources>
